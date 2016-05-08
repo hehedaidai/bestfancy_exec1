@@ -1,0 +1,23 @@
+{
+  "name": "bestfancy_exec1",
+  "version": "1.0.0",
+  "description": "我�bestfancy's test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "bestfancy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hehedaidai/bestfancy_exec1.git"
+  },
+  "keywords": [
+    "bestfancy",
+    "bestfancy_exec1"
+  ],
+  "author": "hehedaidai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hehedaidai/bestfancy_exec1/issues"
+  },
+  "homepage": "https://github.com/hehedaidai/bestfancy_exec1#readme"
+}
